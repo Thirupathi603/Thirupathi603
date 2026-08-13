@@ -1,0 +1,110 @@
+
+# =========================
+# Core LLM Frameworks
+# =========================
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+
+# =========================
+# OpenAI / Azure OpenAI
+# =========================
+openai
+tiktoken
+
+# =========================
+# Embedding Models
+# =========================
+sentence-transformers
+transformers
+
+# =========================
+# Vector Databases
+# =========================
+faiss-cpu
+chromadb
+
+# =========================
+# Document Processing
+# =========================
+pypdf
+pdfplumber
+python-docx
+unstructured
+markdown
+beautifulsoup4
+lxml
+
+# =========================
+# OCR
+# =========================
+pytesseract
+Pillow
+
+# =========================
+# Data Processing
+# =========================
+pandas
+numpy
+
+# =========================
+# API Development
+# =========================
+fastapi
+uvicorn
+pydantic
+
+# =========================
+# Environment Management
+# =========================
+python-dotenv
+
+# =========================
+# Database
+# =========================
+sqlalchemy
+
+# =========================
+# HTTP Requests
+# =========================
+requests
+httpx
+
+# =========================
+# ML / Deep Learning
+# =========================
+torch
+accelerate
+
+# =========================
+# Evaluation
+# =========================
+ragas
+datasets
+
+# =========================
+# Monitoring & Logging
+# =========================
+langsmith
+tqdm
+loguru
+
+# =========================
+# Utilities
+# =========================
+scikit-learn
+rank-bm25
+joblib
+
+# =========================
+# Optional Reranking
+# =========================
+FlagEmbedding
+
+
+tiktoken==0.13.0
+
+langgraph
+langchain-groq
